@@ -1,18 +1,21 @@
 # High-Frequency Trading Simulation
 
 ## Description
-This project involves creating a simulation environment for high-frequency trading (HFT) strategies. The simulation includes market order book simulation, implementation of common HFT strategies like market making and arbitrage, and performance metrics and visualizations.
+Create a simulation environment for high-frequency trading (HFT) strategies.
 
-## Key Features
+### Key Features
 - Market order book simulation.
 - Implementation of common HFT strategies (e.g., market making, arbitrage).
 - Performance metrics and visualizations.
 
-## Technologies
+### Technologies
 - Python
+- C++
 - Matplotlib
 
-## Installation
-1. Clone the repository
-   ```sh
-   git clone https://github.com/yourusername/HFT-Simulation.git
+## Datasets
+
+The dataset used in this project can be found on Kaggle:
+- [High-Frequency Trading Simulation Dataset](https://www.kaggle.com/datasets/saur3x/high-frequency-trading-simulation)
+
+Make sure to download the dataset and place it in the appropriate directory before running the scripts.
